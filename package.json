@@ -23,7 +23,7 @@
         "url": "https://github.com/alkion-project/bitcore-message.git"
     },
     "dependencies": {
-        "bitcore-lib": "https://github.com/alkion-project/bithao-lib.git"
+        "bitcore-lib": "https://github.com/alkion-project/alkion-lib.git"
     },
     "devDependencies": {
         "bitcore-build": "https://github.com/bitchk-wallet/bitcore-build.git",
